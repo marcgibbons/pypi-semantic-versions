@@ -1,0 +1,4 @@
+jupyter
+matplotlib
+pandas
+semantic-version
